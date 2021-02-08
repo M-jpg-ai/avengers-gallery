@@ -1,0 +1,21 @@
+#avengers {
+    width: 700px;
+}
+
+body {
+    text-align: center;
+}
+
+.MEMBERS {
+    height: 200px;
+    width: 300px;
+}
+
+h1 {
+    font-size: 50px;
+    text-decoration: underline;
+    color: deepskyblue;
+}
+section{
+    padding: 10px;
+}
